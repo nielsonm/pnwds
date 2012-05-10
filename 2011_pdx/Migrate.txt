@@ -1,0 +1,29 @@
+Migrate with Drewish
+
+Concepts:
+
+  Source
+  Destination
+    Interface to Drupal data - typically entities
+    Creates one record for each record in the source
+    Needs to elucidate the dependencies
+  Map
+    Provides lookup facilities, in case of
+  Field Mapping
+    How to go from column x to field y.
+    Split subfields
+  Field Handlers
+    Converts field into something Drupal understands
+  Migration
+    prepareRow(), prepare(), complete()
+
+  Migrate Extra is a contrib, kind of YMMV, not as well supported as Migrate.
+
+  Mangling in prepare()
+    Great spot to merge, split fields from one version to the other.
+
+  Writing a field handler is not too tricky, but not reccommended.
+  Wordpress migrate module uses migrate and is awesome, commerce migrate needs some work.
+
+
+

@@ -1,0 +1,34 @@
+Drush make
+
+Drush is a helper monkey and a shopping list built in one.
+
+Site manifest
+
+  Easy for devs to quickly get up to speed
+
+  Can eliminate duplicate repos (optional)
+    Encourages contributing back to the module (patches not hacks)
+
+  Drush make is simplistic
+
+Download type can be a file, git, get
+
+Libraries can be inserted too. Big plus for contrib modules (jQueryUI) that usesexternal libraries.
+
+Issues:
+
+  - Deployment support
+    Aegir helped drive drush make.
+
+  - Drush pm-update doesn't write to .make.
+  - External dependencies
+  - D.O. distro packaging
+
+The future of make
+
+  drush pm-update needs an option to update the .make file
+
+  Caching of downloads (squid is being used currently).
+    Drush 5 caches downloads.
+
+  Create a drush deploy standard.

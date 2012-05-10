@@ -1,0 +1,27 @@
+Node.js
+
+JS on the server.  Node.js is cancer is flamebait, but has some valid points.
+
+Why is Node.js helpful?
+  * Apache isn't helpful for certain use cases.
+    One thread (usually one process) per connection.
+    Memory heavy processes
+    Persistent connections are major fail.
+
+What is Node.js good for...
+
+  Concurrency!
+  Asynchronus I/O
+  Low overhead for maintaining open connections
+  Networking applications
+  Light weight servers
+
+Node.js project
+
+  Provides the plumbing and server.
+
+How can my module integrrate with node.js?
+  Pass node.js JSON
+  nodejs_enqueue_message($message);
+
+

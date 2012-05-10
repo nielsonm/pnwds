@@ -1,0 +1,65 @@
+State of D7 Media: Ghosts of past, present and future.
+
+Media past:
+
+  Emfield, Image field, file field
+    Eh, pretty good.
+  We can't ignore that we have a problem
+  Media sprint 2009 in NYC
+
+  Drupal 7 -
+  Improved File API
+  Stream wrappers
+    public:// private:// temporary://
+
+  Stream wrappers for external files, modules
+
+  Image cache in core (styles)
+  File and image field in core
+
+  Acquia and Drupal Gardens
+    fieldable files
+    Read only stream wrappers - youtube:// - youtube module
+
+Media present:
+
+  Palantir gets involved
+    Field Museum
+    American Public Media
+
+  We can do better - get it out of beta - 2011 Chicago Media Sprint
+  Project motto:  Reduce, Reuse, Recycle
+    Using views, cTools
+    --Don't write, integrate
+
+Media Future:
+
+  Awesomesauce
+  Media Roadmap  d.o/node/1281276
+  File entity is the backend for Media.
+
+  Media initiative :
+    Increased communication for maintainers
+    Weekly meetings on  #drupal-media
+    Commitment as maintainers
+    Get new people involved in the process.
+    Palantir and Acquia welcome help on Media
+
+  Core Media Initiative:
+    Media Sprint at DrupalCon Denver - g.d.o/media
+
+  Filestyles now moved to file entities.
+  There is another way to style file entities
+
+  Demo:
+    Media
+    File-entity
+    Media browser selection - view library - views goodness
+    Manage display - Renderede file - image cache presets as well as link and token - sweet
+    Manage file display - first manage field display and then the media INSIDE the field.
+    Views integration is not currently using fields.
+    Field settings let's admins turn off media browser plugins e.g. editors only want authors to use existing media on site - turn off the upload plugin.
+    Legacy Media modules will be supported but not reccomended.
+    2.x branch is great but still in development.
+    Editing media is now in admin/media/list
+    Media replace is a module that will replace old versions of a file with revisions.

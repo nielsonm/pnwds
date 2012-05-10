@@ -1,0 +1,22 @@
+Contextual administration
+Jesse Hofmann-Smith
+
+Jesse fell into using CA.
+
+Ease of use is king in creating an admin menu.
+
+Not just a label - Fashion designers register for an account
+
+  Two roles - Designer/Label and Blog Author/Editor
+
+  Structure
+    Lookbooks and blogs
+
+  What do we need?
+    Blog editors need an admin section to manage blogs
+
+  Page manager creates custom pages, passes arguments to views, panels, etc.
+
+  Views bulk operation module creates a admin interface that is really a view.
+
+  VBO is broken right now with CA, but there should be a fix soon.

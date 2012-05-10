@@ -1,0 +1,12 @@
+Commerce
+Randy Fay
+
+eCommerce D5
+Ubercart for D6 - focused on out of the box functionality
+Commerce for D7?
+
+http://drupalcommerce.org/contrib has an enormous number of modules.
+
+Commerce addressbook autofills billing and shipping methods. http://drupal.org/project/commerce_addressbook
+
+

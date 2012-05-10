@@ -1,0 +1,62 @@
+An introduction to consuming remote APIs
+Joshua Kopel
+  Squigaloo
+
+d.o/jkopel
+
+Next year's summit is at Seattle.
+
+Today:
+  Web service come over the web via XML, JSON.
+  RESTful API are a lot of fun.
+  Client/Server
+  Stateless
+  HTTP methods
+
+  SOAP is also uselful for transactional or senstitive info.
+
+  SalesForce, Flickr,  Youtube, Amazon S3
+
+The Drupal Way:
+
+  Pro:
+    Write minimal code
+      Feeds, Rules, Entities
+    Easily modified
+    Fully integrated
+
+  Con:
+    Difficult to manage complex interactions
+    Implementation scattered across modules
+    Performance challenges
+
+The coder way:
+
+  Pro:
+    Write fast code
+    Build useful API for other modules
+    Manage complex interactions in code
+  Con:
+    Must expose data in order to intergrate
+    UI
+
+  Be flexible - easy wins are worth it.
+  json decoding is in core.
+
+Now what?
+  Store
+    Entity or table
+  Display
+    As part of a node or page
+    Dynamically with js
+
+Security
+  SSL
+  http basic authorization
+  Domain keys/subdomains
+  OAuth
+
+If you're send lots of data, try a stream wrapper.
+
+drupal http request is synchronous, use reasonable timeout value, cache is possible.
+

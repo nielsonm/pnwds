@@ -1,0 +1,39 @@
+Aegir
+
+GUI for managing websites.  Overkill for managing less than 2-3.
+
+
+Aegir
+
+  Eases site management
+  Rapid installations and Deployments
+  Manages multiple servers
+
+Install & key concepts
+
+  Backend: provision
+  Frontend: Hostmaster
+  Magicsauce: Drush
+
+  Installation is fairly straightforward
+
+  Platform  - what Aegir calls Drupal sites.
+  Clone - move site from one host to another.
+
+Benefits
+
+  Pain free updates - security patches
+
+  Accountability
+
+Challenges
+
+  git
+    Aegir doensn't like gitosis
+  .htaccess
+
+  Permissions
+
+Live Demo
+
+Restarting apache with the graceful flag is a good idea.

@@ -1,0 +1,102 @@
+Drupal UI tweaks
+
+Darko Hrgovic
+
+As members of the drupal comunity, we're investing in improving the UI.
+
+Strategy/Design/Build
+
+Training or simplification - saying No to the client
+
+New sites now must live in digital ecology (FB, flash).
+
+* What is usability?
+
+wikipedia - Usability is the ease of use and learinability of a human-made object.
+
+* * Learnability*
+
+It doesn't work like something I'm used to.
+
+Hard often means discomfort with the learning curve.
+
+d7ux.org
+
+1. Make the most frequent tasks easy and less frequent tasks acheivable.
+  Remember that we're not *just* delivering Drupal but, contrib, custom code, etc.
+2. Design for the 80%.
+  What about the other 20%.
+3. Privilege the Content Creator
+
+4. Make the default settings smart
+
+* *Obvious D6 & D7 UI improvments*
+
+  D6 drag n drop
+
+  D7 better grouping of common tasks in admin theme,
+customizable toolbarm, etc.
+
+* *From Drupal UX to Product UX*
+
+  If we know the use case, we can address the 20%
+  Streamline client worklflow
+
+  The tricky part is that clients add more features, forget to budget time for usability.  Since usability is project specific, clients need to be socialized into the fact that their 20% use case takes time and budget to address.
+
+  Agile development is ideal for creating better UI.
+
+  Try to get clients to suspend disbelief about display vs. functionality.
+
+  Three Cs of Drupal UX:
+    Core
+      - admin_menu_ D6
+      - D7 toolbar
+      - Make the most frequent tasks easy _to find_.
+      - Contextual Links
+
+
+    Contrib
+
+      Clients understand blocks, panels & contexts can be hard to train.
+
+    Custom UX
+      Leave a ton of documentation, both for users and future developers.
+      "Did you patch core according to that Google Doc."
+
+    Train as early as possible on "content alpha".  Watch them and act as a guide
+
+    "There is no greater moment of illumination in a Drupal project than watching someone use it." -Darko H.
+    readytalk records training sessions
+
+    Don't understate the importance of the basics.
+    Help text fields are there for a reason!
+    Nobody will see help text and .6em.
+
+    http://drupal.org/project/beautytips
+
+    Information proximity
+
+    RTFM doesn't work when there's no M or nobody knows where the F the M is.
+
+    Complicated elements provide Copy/Paste examples.
+
+    Examples are better if they reflect the client's style guide.
+
+    Clone module rocks, webform does too.
+
+* Process toward greater usability
+
+
+
+* Usable UI tips and tweaks
+
+Views bulk operation
+
+OG user autocomplete
+
+
+Personal Note:
+block path autocomplete
+Contextual link block behaviour
+

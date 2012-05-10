@@ -1,0 +1,26 @@
+Drupal Distributions as Production, as Service
+
+Bulk use of distributions is a great way to build full service sites at an extremely low end rates.
+
+Why Distros
+
+  If you're building the same feature across multiple clients.  Leveraging installation profiles, using jenkins to unit/browser test the code.
+  Testing helps in finding and solving regression bugs.  Startup costs are nontrivial, but the payout is huge, both for the devs and for the org.
+
+What problems/use cases aren't distributions good for?
+
+  Getting infrastructure in place takes between 100-200 hours.  Needs to be an actively feedbacked process.  Drupal distros can be adaptied to fir narrow and broad verticals.
+
+  Distros are more about user facing functionality.
+
+Pain points with distros
+
+  Support for distros is tricky because the overall profitablity.  Distros are starting points, not the finished site.  Install profiles may be as expensive as custom builds.  Think of install profiles more as accelerated starting points, not as a finished product.
+
+Dev tools and lessons learned
+  NodeOne is getting away from large, monolithic features that include views, context and content types.
+  NodeOne has good articles on features.  Upgrading a production site is best done by creating a tag and testing, in updating a db use a hook_updateN.  http://api.drupal.org/api/drupal/modules--system--system.api.php/function/hook_update_N/7  _
+
+Q&A
+
+Tip:  Use the documentaion to be the test content.
