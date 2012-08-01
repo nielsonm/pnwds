@@ -1,0 +1,20 @@
+Tao of Drupal
+  Tao de Jing - quotes
+  Big modules are going to be framework based, since not many ppl need to use my custom, niche case module.
+
+WYSIWYGs are bad, and you should feel bad
+  Zoidberg
+  Use markdown, easier for clients who have some technical prowess.
+  Premier module using MD with live preview on the side.
+
+Git for company developers and freelancers (Panel with Marlene)
+  Why it's important, git remembers your past.
+  How to use it, screencast of creating a repo.
+  Getting it offsite (GH, Bitbucket, self-hosted with an rPi)
+  git tips and tricks, whiz bangs and headslappers
+
+Omega and delta, more than two thirds of a sorority
+  Omega is the starter theme that has a lot of ppl talking.
+  Possible panels integration.
+
+
