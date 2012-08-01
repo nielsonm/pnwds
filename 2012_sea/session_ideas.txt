@@ -15,6 +15,5 @@ Git for company developers and freelancers (Panel with Marlene)
 
 Omega and delta, more than two thirds of a sorority
   Omega is the starter theme that has a lot of ppl talking.
-  Possible panels integration.
-
-
+  Possible panels integration with themes.
+  Recycle notes from PDUG presentation.
