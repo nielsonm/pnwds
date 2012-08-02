@@ -22,3 +22,17 @@ Omega and delta, more than two thirds of a sorority
   Omega is the starter theme that has a lot of ppl talking.
   Possible panels integration with themes.
   Recycle notes from PDUG presentation.
+
+Drupal site building in memes.
+  Drupal site building can be tricky, it's not glamorous like designing or powerful like developing base functionality, but it's crucial.  Clients will be more affected by the small decisions that are made by sitebuilders.  Decisions often overlooked by management and the client.
+  Issue queue success kid - maybe too dev heavy
+  Features all the things
+  Insanity Wolf format filter php for anons
+  Xibit yo dawg permissions and roles
+  Inception theme / feature changes regression
+  Drush all the things
+  Confession bear themes out issues instead of fixing them.
+  Good guy Greg helps out in IRC
+  Bad luck Brian updates conrib, breaks site.
+  Scumbag Steve creates a fix for a bug, doesn't post fix or patch.
+  Insanity wolf
