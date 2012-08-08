@@ -10,8 +10,17 @@ WYSIWYGs are bad, and you should feel bad
 Git for company developers and freelancers (Panel with Marlene)
   Why it's important, git remembers your past.
     It remembers everything, including passwords
-      git reset -> git commit --amend -> change pwd
-  How to use it, screencast of installing it (on mac), creating a repo.
+      git reset -> git commit --amend -> change pwd - you're hosed.
+    Git bisect makes finding the bug, post commit, easier.
+      Binary search, start with good and bad, find bad
+    Everything's in patches, can be emailed.
+    Git can be used offline, like on the train, or on a 9 hour flight to Sao Paulo, nudge nudge.
+    Encourages a branching style of concurrent development
+      Why concurrent - more stable - bandwidth
+      BASE - Mike - views - panels - features - custom fields
+        \                                                       \ Merge
+         Marlene - theme - jQuery - views tpls (pay attention)   - merge branches - resolve merge conflict - deploy and happy day
+  How to use it, screencast of installing it (on mac?), creating a repo.
     Possibly add integration to Netbeans, Eclipse.
   Getting it offsite (GH, Bitbucket, self-hosted with an rPi)
     Benefits of getting it offsite - dead hard drives happen
