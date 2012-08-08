@@ -20,6 +20,9 @@ Git for company developers and freelancers (Panel with Marlene)
       BASE - Mike - views - panels - features - custom fields
         \                                                       \ Merge
          Marlene - theme - jQuery - views tpls (pay attention)   - merge branches - resolve merge conflict - deploy and happy day
+
+     What if my code was crap - cherry picking the best commits is trivial.
+     Branching branches, why not?  But that goes into the weeds.
   How to use it, screencast of installing it (on mac?), creating a repo.
     Possibly add integration to Netbeans, Eclipse.
   Getting it offsite (GH, Bitbucket, self-hosted with an rPi)
