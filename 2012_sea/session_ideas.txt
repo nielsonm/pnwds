@@ -23,6 +23,11 @@ Git for company developers and freelancers (Panel with Marlene)
 
      What if my code was crap - cherry picking the best commits is trivial.
      Branching branches, why not?  But that goes into the weeds.
+
+    German legislature now has released their draft legislation on GH, this is HUGE.  Github's repos can be made public, so now ppl can view ammendments to pending legislation.
+      Laws are the operating system of society, the scope of the project is enormous and the complexity is just as large.
+   Git blame - "For instance, Git can instantly tell you where does THIS LINE come from, even if this line moved across different files over years."
+
   How to use it, screencast of installing it (on mac?), creating a repo.
     Possibly add integration to Netbeans, Eclipse.
   Getting it offsite (GH, Bitbucket, self-hosted with an rPi)
