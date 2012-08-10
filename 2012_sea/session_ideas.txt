@@ -50,6 +50,6 @@ Drupal site building in memes.
   Drush all the things
   Confession bear themes out issues instead of fixing them.
   Good guy Greg helps out in IRC
-  Bad luck Brian updates conrib, breaks site.
+  Bad luck Brian updates contrib, breaks site.
   Scumbag Steve creates a fix for a bug, doesn't post fix or patch.
   Insanity wolf
