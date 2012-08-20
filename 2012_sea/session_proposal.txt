@@ -1,0 +1,16 @@
+Git is the latest and most exciting piece of SCM in a long time, even better it's 100% open source.  Git is now the main source control on drupal.org. Easy to install and super flexible, source control isn't just for the corporate types anymore.    This introductory session highlights how to use Git not only as a source control client in a team setting, but how to manage just about any kind of electronic information.
+
+   Providing the unique perspectives of a serial team developer and a freelance designer, this session will cover topics like:
+       * How to set up your repository
+       * How to commit
+       * How to share with others
+       * Branching and merging to maximize efficiency on a project
+       * How to use git to do other neat things besides manage your project code
+       * How to contribute back to the community by using git
+       * Tricky tips and tricks to make git fly - with a publicly shared git config file, shared using (what else) GIT!
+       * Why git is so special, why should anyone who works in web design / development should use it.
+       * Identifying the suck, how git helps find what broke & (if you care) whodunnit.
+       * Besides D.O. who else is using Git?  (Hint: the answer may surprise you)
+
+
+Warning: This session may contain odd humor, awkward metaphors, sudden flashes of inspiration and an intense desire to register for a GitHub account.
