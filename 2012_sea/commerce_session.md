@@ -23,7 +23,13 @@ The best way I can think of defining entities for old Drupal farts like me is to
 
 ##Yeah, but does it come with <insert payment method here>?
 
+Short answer, probably.
+
+Long answer, Drupal Commerce has well over 19 payment methods listed on dc.org.   Creating a payment is straightforward.  Seems like every week, there's at least 4-5 new Commerce payment method modules that support some new payment framework.  Even crazy ones like C.O.D. and Bill Me Later.
+
 ##How to customize it.
+
+Cus
 
 ##Setting up a store.
 
