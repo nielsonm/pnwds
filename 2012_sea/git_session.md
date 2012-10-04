@@ -21,8 +21,23 @@ Git is the latest and most exciting piece of SCM in a long time, even better it'
 # Branching and merging to maximize efficiency on a project
 
 # How to use git to do other neat things besides manage your project code
+  Use it to manage your configuration files, your memoires, that novel you;ve been kicking around in your head, heck even a blog (GH pages).
 
 # How to contribute back to the community by using git
+
+This could be a presentation in & of itself. But the best way to get involved using git is to use git to submit patches on D.O.  For the uninitiated, here's the cliff notes version.
+  Step 1: Discover bug.
+  Step 2: Find fix.
+  Step 3: Clone project.
+  Step 4: Make fix on git clone.
+  Step 5: Make patch.
+  Step 6: Submit patch.
+  Step 7: Glory in the victory.
+
+http://drupal.org/documentation/git
+
+http://drupal.org/node/707484
+
 
 # Tricky tips and tricks to make git fly - with a publicly shared git config file, shared using (what else) GIT!
   git tips and tricks, whiz bangs and headslappers
@@ -40,8 +55,9 @@ Git is the latest and most exciting piece of SCM in a long time, even better it'
       BASE - Mike - views - panels - features - custom fields
         \                                                       \ Merge
          Marlene - theme - jQuery - views tpls (pay attention)   - merge branches - resolve merge conflict - deploy and happy day
+     GH also has this neat concept called pull request, which is basically you asking for a branch merge.
 
-     What if my code was crap - cherry picking the best commits is trivial.
+     What if DEV X's code was crap - cherry picking the best commits is trivial.
      Branching branches, why not?  But that goes into the weeds.
 
 # Identifying the suck, how git helps find what broke & (if you care) whodunnit.
@@ -53,10 +69,17 @@ Git is the latest and most exciting piece of SCM in a long time, even better it'
 
 # Besides D.O. who else is using Git?  (Hint: the answer may surprise you)
   Linux Kernal, Ruby, Gnome, Microsoft, Netflix, Android, Facebook, Google, Perl, PostgreSQL, Rails, Gnome, KDE, X.org, and more.
+
+  Government:
+  We the People is a petition webapp that allows authenticated users to submit petitions directly to the Whitehouse.  Guess what, it's a Drupal distro (insert kermit freak gif).
+
+  NASA has a GH acct.
+
   German legislature now has released their draft legislation on GH, this is HUGE.  Github's repos can be made public, so now ppl can view ammendments to pending legislation.
-  Laws are the operating system of society, the scope of the project is enormous and the clients are a nightmare.
+  Laws are the operating system of society, the scope of the project is enormous and the clients expectations can be a nightmare.
+  Not only are the laws on GH, but tools to implement this locally. https://github.com/bundestag/gesetze-tools
+
+Education: Bill Fitzgerald from Portland's own Funny Monkey suggested that git could be used by teachers to build, share and maintain curricula. Info graphic included: https://s3.amazonaws.com/easel.ly/all_easels/33386/Teacher_Git/image.jpg   http://funnymonkey.com/thinking-about-the-verbs
 
 Warning: This session may contain odd humor, awkward metaphors, sudden flashes of inspiration and an intense desire to register for a GitHub account.
-
-
 
