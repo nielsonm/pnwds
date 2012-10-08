@@ -1,4 +1,5 @@
 !SLIDE
+# Git It On
 Git is the latest and most exciting piece of SCM in a long time, even better it's 100% open source.  Git is now the main source control on drupal.org. Easy to install and super flexible, source control isn't just for the corporate types anymore.    This introductory session highlights how to use Git not only as a source control client in a team setting, but how to manage just about any kind of electronic information.
 
    Providing the unique perspectives of a serial team developer and a freelance designer, this session will cover topics like:
@@ -83,7 +84,7 @@ http://drupal.org/node/707484
   Linux Kernal, Ruby, Gnome, Microsoft, Netflix, Android, Facebook, Google, Perl, PostgreSQL, Rails, Gnome, KDE, X.org, and more.
 
 !SLIDE
-  Government:
+## Government:
   We the People is a petition webapp that allows authenticated users to submit petitions directly to the Whitehouse.  Guess what, it's a Drupal distro (insert kermit freak gif).
 
   NASA has a GH acct.
