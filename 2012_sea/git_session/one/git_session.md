@@ -95,7 +95,16 @@ http://drupal.org/node/707484
   Not only are the laws on GH, but tools to implement this locally. https://github.com/bundestag/gesetze-tools
 
 !SLIDE
-Education: Bill Fitzgerald from Portland's own Funny Monkey suggested that git could be used by teachers to build, share and maintain curricula. Info graphic included: https://s3.amazonaws.com/easel.ly/all_easels/33386/Teacher_Git/image.jpg   http://funnymonkey.com/thinking-about-the-verbs
+## Education: 
+Bill Fitzgerald from Portland's own Funny Monkey suggested that git could be used by teachers to build, share and maintain curricula. Info graphic included: https://s3.amazonaws.com/easel.ly/all_easels/33386/Teacher_Git/image.jpg   http://funnymonkey.com/thinking-about-the-verbs
+
+!SLIDE
+
+Questions?
+
+Thanks a million!1!
+
+@oswebguy @mindewen
 
 Warning: This session may contain odd humor, awkward metaphors, sudden flashes of inspiration and an intense desire to register for a GitHub account.
 
