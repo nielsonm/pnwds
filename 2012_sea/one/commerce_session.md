@@ -81,8 +81,10 @@ It's the fastest growing eCommerce distro, and has been for sometime.  Drupal Co
 ##How to customize it.
 
 Customizing your commerce install can take many forms, such as:
-  Adding your own payment method.
-  Adding steps to the checkout.
+  Adding your own payment method, adding steps to the checkout, or custom shipping method.
+
+  Most of these require custom code or rules which can be exported via features.
+
 
 !SLIDE incremental smbullets  transition=cover
 ##Setting up a store.
