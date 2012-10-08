@@ -3,6 +3,18 @@
 
 Warning, this presentation may contain odd humor, occaisional awkward moments and lots of nerd speak.
 
+.notes TOC-slide
+!SLIDE smbullets transition=cover
+## What we'll cover today.
+### What is Drupal Commerce
+### Why should you care
+### Why is commerce so powerful?
+### Payment methods
+### Customization
+### Setting up a store
+### Questions & Answers
+
+
 !SLIDE incremental smbullets transition=cover
 # What is Drupal Commerce?
 
@@ -11,6 +23,17 @@ Simply put, Drupal commerce is an eCommerce framework that allows both seasoned 
 # Why should ***you*** care?
 
 It's the fastest growing eCommerce distro, and has been for sometime.  Drupal Commerce has a lot of momentum.  Distro users range from rszrama's hobby cheese store http://www.realmilkcheese.com to massive multinational sites selling hundreds of different products http://www.eurocentres.com.
+
+.notes TOC-slide
+!SLIDE smbullets transition=cover
+## What we'll cover today - Checking in.
+### <s>What is Drupal Commerce</s>
+### <s>Why should you care</s>
+### Why is commerce so powerful?
+### Payment methods
+### Customization
+### Setting up a store
+### Questions & Answers
 
 !SLIDE incremental smbullets transition=cover
 # Why is Commerce so powerful?
@@ -41,6 +64,18 @@ It's the fastest growing eCommerce distro, and has been for sometime.  Drupal Co
  * Long answer, Drupal Commerce has well over 19 payment methods listed on dc.org.
  * Creating a payment is straightforward.  Seems like every week, there's at least 4-5 new Commerce payment method modules that support some new payment framework.
  * Even crazy ones like C.O.D. and Bill Me Later.
+
+.notes TOC-slide
+!SLIDE smbullets transition=cover
+## What we'll cover today - Checking in.
+### <s>What is Drupal Commerce</s>
+### <s>Why should you care</s>
+### <s>Why is commerce so powerful?</s>
+### <s>Payment methods</s>
+### Customization
+### Setting up a store
+### Questions & Answers
+
 
 !SLIDE incremental smbullets  transition=cover
 ##How to customize it.
