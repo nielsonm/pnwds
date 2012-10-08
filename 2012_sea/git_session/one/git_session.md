@@ -7,20 +7,19 @@ Git is the latest and most exciting piece of SCM in a long time, even better it'
 !SLIDE
 # How to set up your repository
   How to use it, screencast of installing it (on mac?), creating a repo.
-    Possibly add integration to Netbeans, Eclipse.
-  ## Ubuntu
-  ## Mac
-  ## Windoze?
+## Ubuntu
+## Mac
+## Windoze?
 
 !SLIDE
 # How to commit
+## Make changes, rewrite, delete, mutate, etc.
+## Commit it & push
 
-  ## Make changes, rewrite, delete, mutate, etc.
-  ## Commit it & push
 !SLIDE
 # How to share with others
-  Getting it offsite (GH, Bitbucket, self-hosted with an rPi)
-    Benefits of getting it offsite - dead hard drives happen
+Getting it offsite (GH, Bitbucket, self-hosted with an rPi)
+Benefits of getting it offsite - dead hard drives happen
 
 
 !SLIDE
@@ -63,9 +62,9 @@ http://drupal.org/node/707484
 !SLIDE
     Encourages a branching style of concurrent development
       Why concurrent - more stable - bandwidth
-      BASE - Mike - views - panels - features - custom fields
-        \                                                       \ Merge
-         Marlene - theme - jQuery - views tpls (pay attention)   - merge branches - resolve merge conflict - deploy and happy day
+      BASE - Mike - views - features - custom fields
+        \                                            \ Merge
+         Marlene - theme - views tpls (pay attention)   - merge branches - resolve merge conflict - deploy and happy day
      GH also has this neat concept called pull request, which is basically you asking for a branch merge.
 
      What if DEV X's code was crap - cherry picking the best commits is trivial.
