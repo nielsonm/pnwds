@@ -80,7 +80,9 @@ It's the fastest growing eCommerce distro, and has been for sometime.  Drupal Co
 !SLIDE incremental smbullets  transition=cover
 ##How to customize it.
 
-Cus
+Customizing your commerce install can take many forms, such as:
+  Adding your own payment method.
+  Adding steps to the checkout.
 
 !SLIDE incremental smbullets  transition=cover
 ##Setting up a store.
