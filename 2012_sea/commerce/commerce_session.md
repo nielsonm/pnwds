@@ -3,6 +3,14 @@
 
 Warning, this presentation may contain odd humor, occaisional awkward moments and lots of nerd speak.
 
+!SLIDE transition=cover
+## About me
+Mike Nielson (@oswebguy)
+
+![Headshot](../file/mike-photo.jpg)
+
+Developer at [![OpenSourcery logo](../file/opensourcery.png)](http://opensourcery.com)
+
 .notes TOC-slide
 !SLIDE smbullets transition=cover
 ## What we'll cover today.
