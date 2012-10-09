@@ -105,5 +105,6 @@ Customizing your commerce install can take many forms, such as:
 ##Setting up a store.
 
 !SLIDE incremental smbullets transitition
-#Questions?
+#Questions?  Thanks!
 
+D.O. / IRC nielsonm - @oswebguy
