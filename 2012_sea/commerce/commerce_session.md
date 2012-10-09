@@ -62,6 +62,9 @@ It's the fastest growing eCommerce distro, and has been for sometime.  Drupal Co
   * Entities are an odd beast, they're new in D7, but they are the lynchpin of Drupal Commerce.
   * The best way I can think of defining entities for old Drupal farts like me is to treat them like nodes, because they basically are.  Better said, nodes are entities in D7, as are vocabularies, terms, users and even (gasp) fields.
   * They're PHP objects in D7 that can be fielded, they have CRUD methods.  Entitities are so crucial to Drupal Commerce in that Commerce creates several entitiy types, like product, line item, payment, and sale(?).
+
+!SLIDE incremental smbullets transition=cover
+## Entities cont.
   * Having entities allows Commerce to have things that act like nodes, but don't have any of the extra functionality, things like published statuses, or comment settings.
   *It also means that you can more fully use Object Oriented principles to increase the reusibility.
 
