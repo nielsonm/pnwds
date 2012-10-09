@@ -45,7 +45,11 @@ It's the fastest growing eCommerce distro, and has been for sometime.  Drupal Co
 
 !SLIDE incremental smbullets transition=cover
 # Why is Commerce so powerful?
+### Rules
+### Views
+### Entities
 
+!SLIDE incremental smbullets transition=cover
 ## Rules - 30 second intro
  * Rules has been a Drupal Contrib project since 2008, with D6.
  * It's a framework basically allows site builders to add functionality to their site.
