@@ -5,32 +5,50 @@ Git is the latest and most exciting piece of SCM in a long time, even better it'
    Providing the unique perspectives of a serial team developer and a freelance designer, this session will cover topics like:
 
 !SLIDE
-# How to set up your repository
+## About us
+Mike Nielson - Developer at [![Opensoucery logo](../file/opensourcery.png)](http://opensourcery.com)
+
+![Mike headshot](../file/mike-photo.jpg)
+<br/><br/><br/>
+!SLIDE
+## About us
+
+Marlene Williams - Founder at [![Design by Marlene](../file/logo-marlene.png)](http://www.designbymarlene.com/)
+
+![Marlene headshot](../file/marlene-photo.jpg)
+<br/><br/><br/>
+
+
+
+
+
+!SLIDE
+## How to set up your repository
   How to use it, screencast of installing it (on mac?), creating a repo.
-## Ubuntu
-## Mac
-## Windoze?
+### Ubuntu
+### Mac
+### Windoze?
 
 !SLIDE
-# How to commit
-## Make changes, rewrite, delete, mutate, etc.
-## Commit it & push
+## How to commit
+### Make changes, rewrite, delete, mutate, etc.
+### Commit it & push
 
 !SLIDE
-# How to share with others
+## How to share with others
 Getting it offsite (GH, Bitbucket, self-hosted with an rPi)
 Benefits of getting it offsite - dead hard drives happen
 
 
 !SLIDE
-# Branching and merging to maximize efficiency on a project
+## Branching and merging to maximize efficiency on a project
 
 !SLIDE
-# How to use git to do other neat things besides manage your project code
+## How to use git to do other neat things besides manage your project code
   Use it to manage your configuration files, your memoires, that novel you;ve been kicking around in your head, heck even a blog (GH pages).
 
 !SLIDE
-# How to contribute back to the community by using git
+## How to contribute back to the community by using git
 
 This could be a presentation in & of itself. But the best way to get involved using git is to use git to submit patches on D.O.  For the uninitiated, here's the cliff notes version.
   Step 1: Discover bug.
@@ -47,12 +65,12 @@ http://drupal.org/node/707484
 
 
 !SLIDE
-# Tricky tips and tricks to make git fly - with a publicly shared git config file, shared using (what else) GIT!
+## Tricky tips and tricks to make git fly - with a publicly shared git config file, shared using (what else) GIT!
   git tips and tricks, whiz bangs and headslappers
     Post gitconfig to GH
 
 !SLIDE
-# Why git is so special, why should anyone who works in web design / development should use it.
+## Why git is so special, why should anyone who works in web design / development should use it.
        git remembers your past.
         It remembers everything, including passwords
         git reset -> git commit --amend -> change pwd - you're hosed.
@@ -71,7 +89,7 @@ http://drupal.org/node/707484
      Branching branches, why not?  But that goes into the weeds.
 
 !SLIDE
-# Identifying the suck, how git helps find what broke & (if you care) whodunnit.
+## Identifying the suck, how git helps find what broke & (if you care) whodunnit.
 
         Git bisect makes finding the bug, post commit, easier.
         Binary search, start with good and bad, find bad
@@ -79,7 +97,7 @@ http://drupal.org/node/707484
         Git blame - "For instance, Git can instantly tell you where does THIS LINE come from, even if this line moved across different files over years."
 
 !SLIDE
-# Besides D.O. who else is using Git?  (Hint: the answer may surprise you)
+## Besides D.O. who else is using Git?  (Hint: the answer may surprise you)
   Linux Kernal, Ruby, Gnome, Microsoft, Netflix, Android, Facebook, Google, Perl, PostgreSQL, Rails, Gnome, KDE, X.org, and more.
 
 !SLIDE
