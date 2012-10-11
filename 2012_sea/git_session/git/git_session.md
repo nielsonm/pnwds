@@ -25,7 +25,7 @@ Marlene Williams - Founder at [![Design by Marlene](../file/logo-marlene.png)](h
 !SLIDE
 ## How to set up your repository
   How to use it, screencast of installing it (on mac?), creating a repo.
-### Ubuntu
+### Ubuntu - links here
 ### Mac
 ### Windoze?
 
@@ -112,7 +112,7 @@ http://drupal.org/node/707484
   Not only are the laws on GH, but tools to implement this locally. https://github.com/bundestag/gesetze-tools
 
 !SLIDE
-## Education: 
+## Education:
 Bill Fitzgerald from Portland's own Funny Monkey suggested that git could be used by teachers to build, share and maintain curricula. Info graphic included: https://s3.amazonaws.com/easel.ly/all_easels/33386/Teacher_Git/image.jpg   http://funnymonkey.com/thinking-about-the-verbs
 
 !SLIDE
