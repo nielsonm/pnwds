@@ -99,6 +99,10 @@ Customizing your commerce install can take many forms, such as:
   Adding your own payment method, adding steps to the checkout, or custom shipping method.
 
   Most of these require custom code or rules which can be exported via features.
+  An excellent module for adding extra steps to the checkout process is [Commerce extra panes}(http://drupal.org/project/commerce_extra_panes),
+  it's maintained by Pedro Cambra (pcambra) one of the major contributors to Commerce core and Commerce contrib.
+
+  As stated previously, it's fairly straightforward to setup a custom payment method. [Link - click me!](Adding a payment method link)
 
 
 !SLIDE incremental smbullets  transition=cover
