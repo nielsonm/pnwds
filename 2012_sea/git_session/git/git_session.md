@@ -97,6 +97,7 @@ http://drupal.org/node/707484
         Git blame - "For instance, Git can instantly tell you where does THIS LINE come from, even if this line moved across different files over years."
 
 !SLIDE
+.notes Move this to front.
 ## Besides D.O. who else is using Git?  (Hint: the answer may surprise you)
   Linux Kernal, Ruby, Gnome, Microsoft, Netflix, Android, Facebook, Google, Perl, PostgreSQL, Rails, Gnome, KDE, X.org, and more.
 
