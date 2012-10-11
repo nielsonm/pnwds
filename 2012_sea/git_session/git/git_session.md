@@ -18,6 +18,35 @@ Marlene Williams - Founder at [![Design by Marlene](../file/logo-marlene.png)](h
 ![Marlene headshot](../file/marlene-photo.jpg)
 <br/><br/><br/>
 
+!SLIDE
+## Why git is so special, why should anyone who works in web design / development should use it.
+       git remembers your past.
+        It remembers everything, including passwords
+        git reset -> git commit --amend -> change pwd - you're hosed.
+        Everything's in patches, can be emailed.
+
+    Git can be used offline, like on the train, or on a 9 hour flight to Sao Paulo, nudge nudge.
+
+!SLIDE
+.notes Move this to front.
+## Besides D.O. who else is using Git?  (Hint: the answer may surprise you)
+  Linux Kernal, Ruby, Gnome, Microsoft, Netflix, Android, Facebook, Google, Perl, PostgreSQL, Rails, Gnome, KDE, X.org, and more.
+
+!SLIDE
+## Government:
+  We the People is a petition webapp that allows authenticated users to submit petitions directly to the Whitehouse.  Guess what, it's a Drupal distro (insert kermit freak gif).
+
+  NASA has a GH acct.
+
+!SLIDE
+  German legislature now has released their draft legislation on GH, this is HUGE.  Github's repos can be made public, so now ppl can view ammendments to pending legislation.
+  Laws are the operating system of society, the scope of the project is enormous and the clients expectations can be a nightmare.
+  Not only are the laws on GH, but tools to implement this locally. https://github.com/bundestag/gesetze-tools
+
+!SLIDE
+## Education:
+Bill Fitzgerald from Portland's own Funny Monkey suggested that git could be used by teachers to build, share and maintain curricula. Info graphic included: https://s3.amazonaws.com/easel.ly/all_easels/33386/Teacher_Git/image.jpg   http://funnymonkey.com/thinking-about-the-verbs
+
 
 
 
@@ -70,14 +99,6 @@ http://drupal.org/node/707484
     Post gitconfig to GH
 
 !SLIDE
-## Why git is so special, why should anyone who works in web design / development should use it.
-       git remembers your past.
-        It remembers everything, including passwords
-        git reset -> git commit --amend -> change pwd - you're hosed.
-        Everything's in patches, can be emailed.
-
-    Git can be used offline, like on the train, or on a 9 hour flight to Sao Paulo, nudge nudge.
-!SLIDE
     Encourages a branching style of concurrent development
       Why concurrent - more stable - bandwidth
       BASE - Mike - views - features - custom fields
@@ -96,25 +117,6 @@ http://drupal.org/node/707484
 
         Git blame - "For instance, Git can instantly tell you where does THIS LINE come from, even if this line moved across different files over years."
 
-!SLIDE
-.notes Move this to front.
-## Besides D.O. who else is using Git?  (Hint: the answer may surprise you)
-  Linux Kernal, Ruby, Gnome, Microsoft, Netflix, Android, Facebook, Google, Perl, PostgreSQL, Rails, Gnome, KDE, X.org, and more.
-
-!SLIDE
-## Government:
-  We the People is a petition webapp that allows authenticated users to submit petitions directly to the Whitehouse.  Guess what, it's a Drupal distro (insert kermit freak gif).
-
-  NASA has a GH acct.
-
-!SLIDE
-  German legislature now has released their draft legislation on GH, this is HUGE.  Github's repos can be made public, so now ppl can view ammendments to pending legislation.
-  Laws are the operating system of society, the scope of the project is enormous and the clients expectations can be a nightmare.
-  Not only are the laws on GH, but tools to implement this locally. https://github.com/bundestag/gesetze-tools
-
-!SLIDE
-## Education:
-Bill Fitzgerald from Portland's own Funny Monkey suggested that git could be used by teachers to build, share and maintain curricula. Info graphic included: https://s3.amazonaws.com/easel.ly/all_easels/33386/Teacher_Git/image.jpg   http://funnymonkey.com/thinking-about-the-verbs
 
 !SLIDE
 
