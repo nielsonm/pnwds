@@ -1,0 +1,33 @@
+body{
+  background: #DDD;
+}
+#preso, .slide {
+  background: url("file/logo.png") no-repeat 100px 50px #F0EFE7;
+  border-radius: 5px;
+
+}
+.content {
+  color: black;
+  font-family: helvetica, arial;
+  margin-top: 125px !important;
+}
+h1, h2 {
+  background-color: #433B34;
+  color: #F0F0E8;
+  font-family: Georgia;
+  line-height: 140%;
+}
+/* Reposition  img link*/
+.content a[href="http://www.designbymarlene.com/"]{
+  position: relative;
+  top: 83px;
+}
+.content a[href="http://opensourcery.com"]{
+  position: relative;
+  top: 15px;
+}
+/* Colors
+ * highlight #F14E32
+ * bg #F0EFE7
+ * color #201E1D
+ * */
