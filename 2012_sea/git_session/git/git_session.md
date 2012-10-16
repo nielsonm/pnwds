@@ -10,6 +10,7 @@ Mike Nielson - Developer at [![Opensoucery logo](../file/opensourcery.png)](http
 
 ![Mike headshot](../file/mike-photo.jpg)
 <br/><br/><br/>
+
 !SLIDE
 ## About us
 
@@ -47,11 +48,8 @@ Marlene Williams - Founder at [![Design by Marlene](../file/logo-marlene.png)](h
 ## Education:
 Bill Fitzgerald from Portland's own Funny Monkey suggested that git could be used by teachers to build, share and maintain curricula. Info graphic included: https://s3.amazonaws.com/easel.ly/all_easels/33386/Teacher_Git/image.jpg   http://funnymonkey.com/thinking-about-the-verbs
 
-
-
-
-
 !SLIDE
+.notes Marlene's turn.
 ## How to set up your repository
   How to use it, screencast of installing it (on mac?), creating a repo.
 ### Ubuntu - links here
@@ -70,6 +68,7 @@ Benefits of getting it offsite - dead hard drives happen
 
 
 !SLIDE
+.notes Mike's turn.
 ## Branching and merging to maximize efficiency on a project
 
 !SLIDE
