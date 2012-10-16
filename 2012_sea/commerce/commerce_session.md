@@ -26,11 +26,21 @@ Developer at [![OpenSourcery logo](../file/opensourcery.png)](http://opensourcer
 !SLIDE incremental smbullets transition=cover
 # What is Drupal Commerce?
 
-Simply put, Drupal commerce is an eCommerce framework that allows both seasoned Drupal devs and relative Drupal noobs to build their own eCommerce sites. Drupal Commerce was devised by Ryan Szrama (rszrama), it grew out of another framework Ubercart, during ye olde days of Drupal 6.  Drupal Commerce is exclusively available for Drupal 7+.
+Simply put, Drupal commerce is an eCommerce framework that allows both seasoned Drupal devs and relative Drupal noobs to build their own eCommerce sites. Drupal Commerce was devised by Ryan Szrama (rszrama), it grew out of another framework, Ubercart, during ye olde days of Drupal 6.
+
+!SLIDE incremental smbullets transition=cover
+## What is Drupal Commerce? - cont.
+Drupal Commerce is exclusively available for Drupal 7+ (More on that in a minute).
+
 !SLIDE incremental smbullets transition=cover
 # Why should ***you*** care?
 
-It's the fastest growing eCommerce distro, and has been for sometime.  Drupal Commerce has a lot of momentum.  Distro users range from rszrama's hobby cheese store http://www.realmilkcheese.com to massive multinational sites selling hundreds of different products http://www.eurocentres.com.
+Drupal Commerce has a lot of momentum.
+Distro users range from rszrama's hobby cheese store [http://www.realmilkcheese.com](http://www.realmilkcheese.com) to massive multinational sites selling hundreds of different products [http://www.eurocentres.com](http://www.eurocentres.com).
+
+!SLIDE incremental smbullets transition=cover
+## Why should ***you*** care?  - cont.
+It's the fastest growing eCommerce distro, and has been for sometime. So let's get on the Drupal Commerce Train
 
 .notes TOC-slide
 !SLIDE smbullets transition=cover
@@ -69,8 +79,23 @@ It's the fastest growing eCommerce distro, and has been for sometime.  Drupal Co
 !SLIDE incremental smbullets transition=cover
 ## Entities cont.
   * They're PHP objects in D7 that can be fielded, they have CRUD methods.  Entitities are so crucial to Drupal Commerce in that Commerce creates several entitiy types, like product, line item, payment, and sale(?).
+
+!SLIDE incremental smbullets transition=cover
+## Entities cont.
   * Having entities allows Commerce to have things that act like nodes, but don't have any of the extra functionality, things like published statuses, or comment settings.
-  *It also means that you can more fully use Object Oriented principles to increase the reusibility.
+  * It also means that you can more fully use Object Oriented principles to increase the reusibility.
+  * Who doesn't love OOP?!? :)
+
+.notes TOC-slide
+!SLIDE smbullets transition=cover
+## What we'll cover today - Checking in.
+### <s>What is Drupal Commerce</s>
+### <s>Why should you care</s>
+### <s>Why is commerce so powerful?</s>
+### Payment methods
+### Customization
+### Setting up a store
+### Questions & Answers
 
 !SLIDE incremental smbullets  transition=cover
 ## Yeah, but does it come with `<insert payment method here>`?
@@ -99,14 +124,15 @@ Customizing your commerce install can take many forms, such as:
   Adding your own payment method, adding steps to the checkout, or custom shipping method.
 
   Most of these require custom code or rules which can be exported via features.
-  An excellent module for adding extra steps to the checkout process is [Commerce extra panes}(http://drupal.org/project/commerce_extra_panes),
+  An excellent module for adding extra steps to the checkout process is [Commerce extra panes](http://drupal.org/project/commerce_extra_panes),
   it's maintained by Pedro Cambra (pcambra) one of the major contributors to Commerce core and Commerce contrib.
 
-  As stated previously, it's fairly straightforward to setup a custom payment method. [Link - click me!](Adding a payment method link)
+  As stated previously, it's fairly straightforward to setup a [custom payment method](Adding a payment method link).
 
 
 !SLIDE incremental smbullets  transition=cover
 ##Setting up a store.
+D7 Commerce kickstart - since D8 isn't out yet.
 
 !SLIDE incremental smbullets transitition
 #Questions?  Thanks!
