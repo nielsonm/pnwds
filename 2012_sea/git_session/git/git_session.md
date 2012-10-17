@@ -20,22 +20,27 @@ Marlene Williams - Founder at [![Design by Marlene](../file/logo-marlene.png)](h
 <br/><br/><br/>
 
 !SLIDE
-## Why git is so special, why should anyone who works in web design / development should use it.
-       git remembers your past.
-        It remembers everything, including passwords
-        git reset -> git commit --amend -> change pwd - you're hosed.
-        Everything's in patches, can be emailed.
+.notes CAVEAT - I'm going to use code as a generic placeholder for anything textual that could be revised. EVER.
+## Why git is so special?
 
-    Git can be used offline, like on the train, or on a 9 hour flight to Sao Paulo, nudge nudge.
+  git remembers your past.
+
+  It remembers everything, including passwords
+
+  git reset -> git commit --amend -> change pwd - you're hosed.
+
+  Everything's in patches, can be emailed.
+
+  Git can be used offline, like on the train, or on a 17+ hour flight to Sydney, nudge nudge.
 
 !SLIDE
-.notes Move this to front.
+.notes git was written for the linux kernal dev, a geographically diverse, temporally dislocated, cranky bunch with extreme organizational challenges & a Napeoleonic complex.
 ## Besides D.O. who else is using Git?  (Hint: the answer may surprise you)
   Linux Kernal, Ruby, Gnome, Microsoft, Netflix, Android, Facebook, Google, Perl, PostgreSQL, Rails, Gnome, KDE, X.org, and more.
 
 !SLIDE
 ## Government:
-  We the People is a petition webapp that allows authenticated users to submit petitions directly to the Whitehouse.  Guess what, it's a Drupal distro (insert kermit freak gif).
+  We the People is a petition webapp that allows authenticated users to submit petitions directly to the Whitehouse.
 
   NASA has a GH acct.
 
@@ -48,8 +53,9 @@ Marlene Williams - Founder at [![Design by Marlene](../file/logo-marlene.png)](h
 ## Education:
 Bill Fitzgerald from Portland's own Funny Monkey suggested that git could be used by teachers to build, share and maintain curricula. Info graphic included: https://s3.amazonaws.com/easel.ly/all_easels/33386/Teacher_Git/image.jpg   http://funnymonkey.com/thinking-about-the-verbs
 
+.notes Mike's last slide, Marlene's turn.
+
 !SLIDE
-.notes Marlene's turn.
 ## How to set up your repository
   How to use it, screencast of installing it (on mac?), creating a repo.
 ### Ubuntu - links here
@@ -62,18 +68,34 @@ Bill Fitzgerald from Portland's own Funny Monkey suggested that git could be use
 ### Commit it & push
 
 !SLIDE
+.notes Marlene's last slide, Mike's turn.
 ## How to share with others
 Getting it offsite (GH, Bitbucket, self-hosted with an rPi)
 Benefits of getting it offsite - dead hard drives happen
 
 
 !SLIDE
-.notes Mike's turn.
 ## Branching and merging to maximize efficiency on a project
+    Encourages a branching style of concurrent development
+      Why concurrent - more stable - bandwidth
+      BASE - Mike - views - features - custom fields
+        \                                            \ Merge
+         Marlene - theme - views tpls (pay attention)   - merge branches - resolve merge conflict - deploy and happy day
+     GH also has this neat concept called pull request, which is basically you asking for a branch merge.
+
+     What if DEV X's code was crap - cherry picking the best commits is trivial.
+     Branching branches, why not?  But that goes into the weeds.
+!SLIDE
+## Identifying the suck, how git helps find what broke & (if you care) whodunnit.
+
+        Git bisect makes finding the bug, post commit, easier.
+        Binary search, start with good and bad, find bad
+
+        Git blame - "For instance, Git can instantly tell you where does THIS LINE come from, even if this line moved across different files over years."
 
 !SLIDE
 ## How to use git to do other neat things besides manage your project code
-  Use it to manage your configuration files, your memoires, that novel you;ve been kicking around in your head, heck even a blog (GH pages).
+  Use it to manage your configuration files, your memoires, that novel you've been kicking around in your head, heck even a blog (GH pages).
 
 !SLIDE
 ## How to contribute back to the community by using git
@@ -97,24 +119,12 @@ http://drupal.org/node/707484
   git tips and tricks, whiz bangs and headslappers
     Post gitconfig to GH
 
-!SLIDE
-    Encourages a branching style of concurrent development
-      Why concurrent - more stable - bandwidth
-      BASE - Mike - views - features - custom fields
-        \                                            \ Merge
-         Marlene - theme - views tpls (pay attention)   - merge branches - resolve merge conflict - deploy and happy day
-     GH also has this neat concept called pull request, which is basically you asking for a branch merge.
-
-     What if DEV X's code was crap - cherry picking the best commits is trivial.
-     Branching branches, why not?  But that goes into the weeds.
 
 !SLIDE
-## Identifying the suck, how git helps find what broke & (if you care) whodunnit.
-
-        Git bisect makes finding the bug, post commit, easier.
-        Binary search, start with good and bad, find bad
-
-        Git blame - "For instance, Git can instantly tell you where does THIS LINE come from, even if this line moved across different files over years."
+## To sum it all up.
+  Why GIT?
+  How to get things started.
+  Sharing code.
 
 
 !SLIDE
