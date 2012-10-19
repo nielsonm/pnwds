@@ -26,6 +26,10 @@ h1, h2 {
   position: relative;
   top: 15px;
 }
+a {
+  color: #888;
+  text-decoration: underline;
+}
 /* Colors
  * highlight #F14E32
  * bg #F0EFE7
