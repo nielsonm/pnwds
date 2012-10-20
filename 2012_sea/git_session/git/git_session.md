@@ -45,6 +45,10 @@ Marlene Williams
 
   NASA has a GH acct.
 
+[https://github.com/nasa](https://github.com/nasa)
+
+![nasa](../file/nasa-logo.png)
+
 !SLIDE
 .notes Laws are the operating system of society, the scope of the project is enormous and the clients expectations can be a nightmare.
 ## Government - cont.
@@ -82,11 +86,20 @@ GitHub help [https://help.github.com](https://help.github.com)
 
 !SLIDE
 ## Creating your repo + basic commands
+`git status`
+
 `git init`
 
 `git add [path-to-file]`
 
+`git rm [path-to-file]` (`--cached` for removing only from the repo)
+
 `git commit -m "Your commit message here."`
+
+
+`git log --stat`
+
+
 
 !SLIDE
 ## Sharing with others
@@ -107,7 +120,21 @@ Github has an application for Macs, too...
 !SLIDE
 .notes Marlene's last slide, Mike's turn.
 
-Insert git clone filler text.
+## Treasure hunting
+
+Others share their code, too, and some of it is really cool!
+
+* JS libraries
+* Frameworks
+* Sublime packages
+* CSS/SASS/LESS snippets
+* Demos
+* Presentations
+
+`git clone [url of repo]`
+
+Then `git pull` lets you easily pull in any updates to the code.
+
 
 !SLIDE
 .notes What if DEV X's code was crap - cherry picking the best commits is trivial.
@@ -211,6 +238,4 @@ Questions?
 Thanks a million!1!
 
 @oswebguy @mindewen
-
-Warning: This session may contain odd humor, awkward metaphors, sudden flashes of inspiration and an intense desire to register for a GitHub account.
 

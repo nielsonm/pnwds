@@ -33,6 +33,10 @@ a {
   color: #888;
   text-decoration: underline;
 }
+.content ul {
+
+font-size: 2em;
+}
 /* Colors
  * highlight #F14E32
  * bg #F0EFE7
