@@ -14,8 +14,9 @@ Mike Nielson - Developer at [![Opensoucery logo](../file/opensourcery.png)](http
 !SLIDE
 ## About us
 
-Marlene Williams - Founder at [![Design by Marlene](../file/logo-marlene.png)](http://www.designbymarlene.com/)
+Marlene Williams
 
+[![Design by Marlene](../file/logo-marlene.png)](http://www.designbymarlene.com)
 ![Marlene headshot](../file/marlene-photo.jpg)
 <br/><br/><br/>
 
@@ -64,22 +65,49 @@ Bill Fitzgerald from Portland's own Funny Monkey suggested that git could be use
 .notes Mike's last slide, Marlene's turn.
 
 !SLIDE
-## How to set up your repository
-  How to use it, screencast of installing it (on mac?), creating a repo.
-### Ubuntu - links here
-### Mac
+## Setting up Git
+###Installing on all the popular OSs###
+
+GitHub help [https://help.github.com](https://help.github.com)
+
+###Config###
+
+**user.name:** `git config --global user.name "YOUR NAME"`
+
+**user.email:** `git config --global user.email email@email.com`
+
+**color.ui:** `git config --global color.ui true`
+
+[https://help.github.com/articles/set-up-git#platform-all](https://help.github.com/articles/set-up-git#platform-all)
 
 !SLIDE
-## How to commit
-### Make changes, rewrite, delete, mutate, etc.
-### Commit it & push
+## Creating your repo + basic commands
+`git init`
+
+`git add [path-to-file]`
+
+`git commit -m "Your commit message here."`
+
+!SLIDE
+## Sharing with others
+
+You have many ways to share your code using git, including quite a few Git-specific hosting providers such as Bitbucket, Githost, GitHub, and Unfuddle.
+
+### GitHub
+Again GitHub help helps! [help.github.com](help.github.com)
+
+Create a repo on GitHub
+
+Connect the local repo to GitHub (follow GitHub's instructions!)
+
+Push to GitHub + pull from GitHub
+
+Github has an application for Macs, too...
 
 !SLIDE
 .notes Marlene's last slide, Mike's turn.
-## How to share with others
-Getting it offsite (GH, Bitbucket, self-hosted with an rPi)
-Benefits of getting it offsite - dead hard drives happen
 
+Insert git clone filler text.
 
 !SLIDE
 .notes What if DEV X's code was crap - cherry picking the best commits is trivial.
@@ -97,7 +125,7 @@ BASE - Mike - views - features - custom fields
 GH also has this neat concept called pull request, which is basically you asking for a branch merge.
 
 !SLIDE
-## Identifying the suck, how git helps find what broke & (if you care) whodunnit.
+## Identifying the suck.
 
 Git bisect makes finding the bug, post commit, easier.
   Binary search, start with good and bad, find bad
@@ -119,12 +147,13 @@ This could be a presentation in & of itself. But the best way to get involved us
   Step 2: Find fix.
 
   Step 3: Clone project.
+  [http://drupal.org/project/zen/git-instructions](http://drupal.org/project/zen/git-instructions)
 
   Step 4: Make fix on git clone.
 
 !SLIDE
 ## How to contribute back to the community by using git - cont.
-  Step 5: Make & submit patch.
+  Step 5: Make a patch.
 
   Step 6: Submit patch to relevant issue or create one.
 
@@ -159,6 +188,7 @@ This could be a presentation in & of itself. But the best way to get involved us
 Let's add `-p`!!
 
 !SLIDE
+.notes Your .gitconfig is in your home directory, more than likely.
 ## Tricky tips and tricks - cont.
 
   All the sortcuts you've seen me use today are on GH.
