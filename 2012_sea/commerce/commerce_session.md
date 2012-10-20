@@ -41,6 +41,7 @@ Distro users range from rszrama's hobby cheese store [http://www.realmilkcheese.
 !SLIDE incremental smbullets transition=cover
 ## Why should ***you*** care?  - cont.
 It's the fastest growing eCommerce distro, and has been for sometime. So let's get on the Drupal Commerce Train
+![monorail cat](../file/monorailcat.jpg)
 
 .notes TOC-slide
 !SLIDE smbullets transition=cover
